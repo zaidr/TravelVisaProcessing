@@ -1,0 +1,18 @@
+<?php
+	//DB Connection Details
+	$username = 'zaid';  
+	$password = 'sohel11';
+	
+	class db extends PDO {
+  	public function last_row_count() {
+    	return $this->query("SELECT FOUND_ROWS()")->fetchColumn();
+  	}
+	}
+	
+	try {
+  		$db = new db('mysql:host=127.0.0.1;dbname=TravelVisaProcessing;charset=utf8', $username, $password);
+	}
+	catch(PDOException $e) {
+  		echo $e->getMessage();
+	}
+?>

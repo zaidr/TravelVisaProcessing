@@ -1,0 +1,54 @@
+
+  <div class="contact-info" id="contact">
+    <div class="w-container">
+      <h1 class="map-heading">Contact Us</h1>
+      <div class="contact-text">123 Somewhere Street, Scarborough, Ontario, M1J 3E1
+        <br>416-555-5555</div>
+    </div>
+  </div>
+  <div class="w-widget w-widget-map map" data-widget-latlng="43.770173,-79.261253" data-widget-style="roadmap" data-widget-zoom="14" data-disable-scroll="1" data-widget-tooltip="TVP Headquarters"></div>
+  <div class="section footer">
+    <div class="w-container">
+      <div class="w-row">
+        <div class="w-col w-col-6">
+          <div class="logo-text footer">Travel Visa Processing</div>
+          <div class="footer-slogan">123 Somewhere Street, Scarborough, Ontario, M1J 3E1
+            <br><strong>416-555-5555</strong>
+            <br><strong>Hours:&nbsp;</strong>Mon-Fri 9:00 - 6:00 Sat/Sun: Closed</div>
+          <div class="social-icon-group">
+            <a class="w-inline-block social-icon" href="#">
+              <img src="images/facebook-icon.svg" alt="537ac6905e68599506078cd0_facebook-icon.svg">
+            </a>
+            <a class="w-inline-block social-icon" href="#">
+              <img src="images/twitter-icon.svg" alt="537ac6fb59179dba333c7d70_twitter-icon.svg">
+            </a>
+            <a class="w-inline-block social-icon" href="#">
+              <img src="images/linkdin-icon-white.svg" alt="537ac8e25e68599506078ce2_linkdin-icon-white.svg">
+            </a>
+            <a class="w-inline-block social-icon" href="#">
+              <img src="images/email-icon-white.svg" alt="537ac9081e62bebc3395dfda_email-icon-white.svg">
+            </a>
+          </div>
+        </div>
+        <div class="w-col w-col-2">
+          <h4 class="footer-title">Navigation</h4><a class="page-link in-footer" href="www.travelvisaprocessing.ca">Home</a><a class="page-link in-footer" href="www.travelvisaprocessing.ca/allvisas.php">Visas</a><a class="page-link in-footer" href="www.travelvisaprocessing.ca/about.php">About</a><a class="page-link in-footer" href="www.travelvisaprocessing.ca/#contact">Contact</a>
+        </div>
+        <div class="w-col w-col-2">
+          <h4 class="footer-title">Destinations</h4><a class="page-link in-footer" href="#">China</a><a class="page-link in-footer" href="#">Brazil</a><a class="page-link in-footer" href="#">Russia</a><a class="page-link in-footer" href="#">More</a>
+        </div>
+        <div class="w-col w-col-2">
+          <h4 class="footer-title">Legal</h4><a class="page-link in-footer" href="www.travelvisaprocessing.ca/privacy.php">Privacy Policy</a><a class="page-link in-footer" href="www.travelvisaprocessing.ca/terms.php">Terms of Use</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section footer copyright">
+    <div class="w-container">
+      <div>Copyright 2014 Travel Visa Processing. All Rights Reserved. Brand logos for demonstration purposes only.</div>
+    </div>
+  </div>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script type="text/javascript" src="js/webflow.js"></script>
+  <!--[if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
+</body>
+</html>
